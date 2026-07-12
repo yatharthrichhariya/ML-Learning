@@ -31,6 +31,7 @@ This repository contains a Jupyter Notebook demonstrating how to efficiently rea
 The notebook demonstrates CSV operations using datasets such as:
 - Weather Dataset
 - Titanic Dataset
+- Netflix Dataset
 - Online CSV dataset from GitHub
 
 ## 🚀 Learning Outcomes
